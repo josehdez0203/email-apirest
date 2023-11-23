@@ -1,0 +1,22 @@
+[
+  {
+    "name": "dany",
+    "acceso": {
+      "address": "smtp.gmail.com:587",
+      "identity": "Daniela Hernandez Arredondo",
+      "username": "psicologia.dany.ha@gmail.com",
+      "password": "teiimgztrvxywsce",
+      "host": "smtp.gmail.com"
+    }
+  },
+  {
+    "name": "jose",
+    "acceso": {
+      "address": "smtp.gmail.com:587",
+      "identity": "Jose Hernandez Cazarez",
+      "username": "josehernandezc@gmail.com",
+      "password": "xmkptfkhrpuublfb",
+      "host": "smtp.gmail.com"
+    }
+  }
+]
